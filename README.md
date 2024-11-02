@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=1756D4&width=500&lines=Hey+there!+(%E2%98%9E%EF%BE%9F%E3%83%AE%EF%BE%9F)%E2%98%9E;My+name+is+Gabriele+%3A\);and+I+love+bringing+AI+ideas+to+life+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D;Feel+free+to+dive+in+and+explore+my+projects+%3A\);See+ya+somewhere!+%E2%9C%8C)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=1756D4&width=500&lines=Hey+there!+(%E2%98%9E%EF%BE%9F%E3%83%AE%EF%BE%9F)%E2%98%9E;My+name+is+Gabriele+%3A\);and+I+love+bringing+AI+ideas+to+life+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D;Feel+free+to+dive+in+and+explore+my+projects+%3A\);Wanna+know+more%3F+See+below!+%F0%9F%91%87)](#)
+
+
 
 Thanks for stopping by my GitHub profile! I'm Gabriele, a passionate developer with a strong love for AI, computer vision, natural language processing, and human-computer interaction. I’m always looking for creative ways to blend my interests, which include fitness, photography, and language learning.
 
