@@ -4,7 +4,7 @@ Thanks for stopping by my GitHub profile! I'm Gabriele, a passionate developer w
 
 - 🔭 I’m currently working on: Exploring AI-driven solutions, particularly in fitness applications, where I combine my passion for calisthenics with technology to create innovative tools.
 - 🌱 I’m currently learning: More advanced techniques in computer vision and NLP, and constantly pushing the boundaries of human-computer interaction to make tech more intuitive and accessible.
-- 📷 Another passion: Photography! I love capturing moments and experimenting with visual storytelling, often looking for ways to apply computer vision to enhance my work.
+- 📷 Another passion: Photography! I specialize in portrait photography and enjoy capturing authentic moments and experimenting with visual storytelling. Check out my work on [Instagram](https://www.instagram.com/gabbokeh) to see some of my favorite shots!
 - 💪 Life outside tech: Calisthenics is a big part of my routine, and I’m always up for finding new places/parks to workout and meet new people.
 - 🌎 Languages I speak: English, Italian, and Chinese fluently. I’m also practicing my Spanish and French, and I’d love to start learning German, Japanese, Turkish, and Russian.
 - 👯 I’m looking to collaborate on: Open-source projects in AI, especially those involving computer vision, fitness tech, or language-based applications. If you have an idea in any of these fields, let’s chat!
