@@ -11,6 +11,6 @@ Thanks for stopping by my GitHub profile! I'm Gabriele, a passionate developer w
 - 🌎 Languages I speak: English, Italian, and Chinese fluently. I’m also practicing my Spanish and French, and I’d love to start learning German, Japanese, Turkish, and Russian.
 - 👯 I’m looking to collaborate on: Open-source projects in AI, especially those involving computer vision, fitness tech, or language-based applications. If you have an idea in any of these fields, let’s chat!
 - 📫 How to reach me: Connect with me on LinkedIn or drop me an email at gabriele.guo@gmail.com.
-- ⚡ Fun fact: I’m always trying to find the intersection of my interests and tech—whether it's through AI-enhanced fitness apps or tools that make language learning easier.
+- ⚡ Fun fact: I love blending my passions! Whether it’s photography, videography, calisthenics or latest techs. From AI-powered fitness apps to smart tools for creativity and learning, I’m always exploring new ways to connect my interests with innovation.
 
 If we have something in common or you just want to connect, feel free to reach out. See ya somewhere in the tech world! 😊
